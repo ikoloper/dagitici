@@ -33,7 +33,6 @@ kisilergunler = {
     "Zeki Şahin" : "Pazartesi",
     "Zeynep Yıldız" : "Salı",
     "Zeynep Şahin" : "Çarşamba",
-    
 }
 kisilergunlerilk=kisilergunler.copy()
 yeniliste={}
